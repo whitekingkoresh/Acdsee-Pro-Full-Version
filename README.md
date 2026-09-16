@@ -262,4 +262,4 @@ This repository serves as the official landing page for ACDSee Photo Studio Prof
 **Get the most recent version of ACDSee Photo Studio Professional today!**
 
 ---
-**Last updated:** 2026-09-15 21:14:26 UTC
+**Last updated:** 2026-09-16 00:01:59 UTC
